@@ -6,3 +6,6 @@ check:
 
 build:
     uv build
+
+test:
+    uv run pytest
